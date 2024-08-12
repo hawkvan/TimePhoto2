@@ -1,0 +1,1 @@
+This repository is used to syncrhonize data via [tidemark](https://www.tidemark.cc).
